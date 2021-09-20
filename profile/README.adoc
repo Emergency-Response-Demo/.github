@@ -1,3 +1,6 @@
 = Welcome to the Emergency response demo github page
 :experimental:
 :imagesdir: images
+
+To get started with the demo, please review the link://https://www.erdemo.io/[Emergency Response Demo Homepage] 
+.
